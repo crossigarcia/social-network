@@ -1,5 +1,4 @@
 const { Schema, model } = require('mongoose');
-//utils date format
 
 const UserSchema = new Schema({
    username: {
